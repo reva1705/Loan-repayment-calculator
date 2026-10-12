@@ -4,7 +4,7 @@ A simple tool to work out loan repayments and see where the money actually goes.
 I built it because most loan calculators just give you one number, and I wanted to
 see how much of each repayment is interest and how that changes over the life of the loan.
 
-Built for the Auspify Finance Internship (Task 2).
+
 
 ![App overview](screenshot-1.png)
 ![Charts and schedule](screenshot-2.png)
